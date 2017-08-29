@@ -1,0 +1,137 @@
+@charset "utf-8";
+body {
+	background-repeat: repeat;
+	background-position: center top;
+	font-size: 9pt;
+	color: #333;
+	background-image: url(../images/2.jpg);
+	margin: auto ;
+	clear: both;
+	float: none;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+/***************************左右分******************************/
+#container{
+	position: absolute;
+	max-width: 820px;
+	width: auto !important;
+	width: 820px;
+	clear:both;
+	float: none;
+	margin: auto;
+	
+}
+
+
+.item {
+	width: 142px;
+	margin: 6px;
+	float: left;
+	clear:none;
+	padding:4px;
+	border: 1px solid #CCC;
+	-moz-box-shadow: 1px 1px 5px #ccc; /* Firefox */
+-webkit-box-shadow: 1px 1px 5px #ccc; /* Safari 和 Chrome */
+box-shadow: 1px 1px 5px #ccc; /* Opera 10.5 + */
+}
+
+.item img{
+  display: block;
+  max-width: 100%;
+  position:relative;
+  cursor:pointer;/*ginny手指*/
+}
+
+.item div {
+	
+	color: transparent;
+	background: transparent;
+	text-align: center;
+	text-valign:middle;
+	vertical-align: middle;
+	text-transform: uppercase;
+	position: absolute;
+	width: 142px;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+	font-family: Helvetica, Arial,;
+	font-size: 0px;
+	font-weight: 200;
+	z-index: 3;
+	left: 4px;
+	top: 4px;
+	line-height: 100px;
+	height: 96% ;
+	
+	
+}  
+
+.item div:hover {
+	
+	color: white;
+	background: rgb(30%,0%,0%); /*fallback for old browsers*/
+	background: rgba(0,0,0,0.7);
+    font-family: Helvetica, Arial,;
+    font-size: 10px;
+	
+}
+
+
+.item h2{
+	font-weight:bolder;
+	color: #C06;
+}
+.item p{
+  margin:2px 0;
+  color: #666;
+}
+
+.categoryoverflow{
+	top:4;
+	left:4;
+	width:auto;
+	position:absolute;
+	z-index:2;
+}
+
+/**** Transitions ****/
+/*由左上角出來*/
+.masonry,
+.masonry .masonry-brick {
+  -webkit-transition-duration: 0.7s;
+     -moz-transition-duration: 0.7s;
+      -ms-transition-duration: 0.7s;
+       -o-transition-duration: 0.7s;
+          transition-duration: 0.7s;
+}
+
+.masonry {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.masonry .masonry-brick {
+  -webkit-transition-property: top, bottom;
+     -moz-transition-property: top, bottom;
+      -ms-transition-property: top, bottom;
+       -o-transition-property: top, bottom;
+          transition-property: top, bottom;
+}
