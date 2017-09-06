@@ -6,7 +6,7 @@ $("#phimedia01").click(function() {
 		{
 			href : 'images/work/phimedia01/01.jpg',
     
-			title : ':: UI :: 2017覺風佛教藝術文化基金會官網<br/><span class="secondt">UI/UX設計/RWD架構</span>'
+			title : ':: UI :: 2017覺風佛教藝術文化基金會官網<br/><span class="secondt">UI/UX設計/RWD架構</span><br><a href="https://beta.chuefeng.org.tw" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -39,7 +39,7 @@ $("#tutorabc01").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc01/01.jpg',
-			title : ':: RWD ::TutorABC-美國菁英住宿中學教育展網頁<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabcjr.com/webinar/TABS/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-美國菁英住宿中學教育展網頁<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabcjr.com/webinar/TABS/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -55,7 +55,7 @@ $("#tutorabc02").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc02/01.jpg',
-			title : ':: RWD ::TutorABC x Uber小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/Uber/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC x Uber小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/Uber/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -71,7 +71,7 @@ $("#tutorabc03").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc03/01.jpg',
-			title : ':: RWD ::TutorABC-IDEO線上聽力測驗<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/IDEO_Listening/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-IDEO線上聽力測驗<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/IDEO_Listening/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -87,7 +87,7 @@ $("#tutorabc04").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc04/01.jpg',
-			title : ':: RWD ::TutorABC x 蛋黃哥小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/gudetama/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC x 蛋黃哥小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/gudetama/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -103,7 +103,7 @@ $("#tutorabc05").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc05/01.jpg',
-			title : ':: RWD ::TutorABC-給你指考幸運餅乾Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabcjr.com/webinar/MeansBallot/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-給你指考幸運餅乾Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabcjr.com/webinar/MeansBallot/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -119,7 +119,7 @@ $("#tutorabc06").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc06/01.jpg',
-			title : ':: RWD ::TutorABC-#hashtag流行語小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/TopHashtag/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-#hashtag流行語小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/TopHashtag/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -151,7 +151,7 @@ $("#tutorabc08").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc08/01.jpg',
-			title : ':: RWD ::TutorABC-酷夏冷知識小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/CoolSummer/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-酷夏冷知識小測驗Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/CoolSummer/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -167,7 +167,7 @@ $("#tutorabc09").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc09/01.jpg',
-			title : ':: RWD ::TutorABC-英語課限時放送Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/ChangeCountDown/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-英語課限時放送Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/ChangeCountDown/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -183,7 +183,7 @@ $("#tutorabc10").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc10/01.jpg',
-			title : ':: RWD ::TutorABC-學英語溫暖價Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://landingpage.tutorabcjr.com/LandingPage/201601JrPromote/Index" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-學英語溫暖價Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://landingpage.tutorabcjr.com/LandingPage/201601JrPromote/Index" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -199,7 +199,7 @@ $("#tutorabc11").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc11/01.jpg',
-			title : ':: RWD ::TutorABC-課綱接軌Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabcjr.com/webinar/dcgscoursev4/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-課綱接軌Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabcjr.com/webinar/dcgscoursev4/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -215,7 +215,7 @@ $("#tutorabc12").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc12/01.jpg',
-			title : ':: RWD ::TutorABC-尋找ABC先生Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/MrABC/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-尋找ABC先生Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/MrABC/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -231,7 +231,7 @@ $("#tutorabc13").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc13/01.jpg',
-			title : ':: RWD ::TutorABC-測驗孩子學習特性Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabcjr.com/webinar/IDEO_Ella/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-測驗孩子學習特性Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabcjr.com/webinar/IDEO_Ella/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -247,7 +247,7 @@ $("#tutorabc14").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc14/01.jpg',
-			title : ':: RWD ::TutorABC-搭郵輪英語不卡卡Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/webinar/CruiseTravel/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-搭郵輪英語不卡卡Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/CruiseTravel/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -263,7 +263,7 @@ $("#tutorabc15").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc15/01.jpg',
-			title : ':: RWD ::TutorABC-腦力升級Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabcjr.com/webinar/IntellectUpgrade/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-腦力升級Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabcjr.com/webinar/IntellectUpgrade/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -279,7 +279,7 @@ $("#tutorabc16").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc16/01.jpg',
-			title : ':: RWD ::TutorABC-合作夥伴頁面<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="http://www.tutorabc.com/aspx/SalesAgentWanted" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-合作夥伴頁面<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/aspx/SalesAgentWanted" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -295,16 +295,16 @@ $("#work_webtwcinema").click(function() {
 				$.fancybox.open([
 					{
 						href : 'images/work/web_twcinema/01.jpg',
-						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="http://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
+						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="https://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
 					}, {
 						href : 'images/work/web_twcinema/02.jpg',
-						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="http://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
+						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="https://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
 					}, {
 						href : 'images/work/web_twcinema/03.jpg',
-						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="http://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
+						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="https://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
 					}, {
 						href : 'images/work/web_twcinema/04.jpg',
-						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="http://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
+						title : ':: 2013國片影像教學資源網 ::<br/><span class="secondt">網站版型UI設計 / 前端切版</span><br><a href="https://ourfilms.taiwancinema.com/index.asp" target="_blank">LINK</a>'
 					}
 				], {
 					helpers : {
