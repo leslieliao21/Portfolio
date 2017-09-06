@@ -7,6 +7,26 @@ $("#phimedia02").click(function() {
 			href : 'images/work/phimedia02/01.jpg',
     
 			title : ':: UI :: 2017圓動力-運動員新媒體平台<br/><span class="secondt">UI/UX設計/RWD架構</span>'
+		},
+		{
+			href : 'images/work/phimedia02/02.jpg',
+    
+			title : ':: UI :: 2017圓動力-運動員新媒體平台<br/><span class="secondt">UI/UX設計/RWD架構</span>'
+		},
+		{
+			href : 'images/work/phimedia02/03.jpg',
+    
+			title : ':: UI :: 2017圓動力-運動員新媒體平台<br/><span class="secondt">UI/UX設計/RWD架構</span>'
+		},
+		{
+			href : 'images/work/phimedia02/04.jpg',
+    
+			title : ':: UI :: 2017圓動力-運動員新媒體平台<br/><span class="secondt">UI/UX設計/RWD架構</span>'
+		},
+		{
+			href : 'images/work/phimedia02/05.jpg',
+    
+			title : ':: UI :: 2017圓動力-運動員新媒體平台<br/><span class="secondt">UI/UX設計/RWD架構</span>'
 		}
 	], {
 		helpers : {
