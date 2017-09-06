@@ -1,6 +1,23 @@
 
 $(document).ready(function() {
 
+$("#phimedia01").click(function() {
+	$.fancybox.open([
+		{
+			href : 'images/work/phimedia01/01.jpg',
+    
+			title : ':: UI :: 2017覺風佛教藝術文化基金會官網<br/><span class="secondt">UI/UX設計/RWD架構</span>'
+		}
+	], {
+		helpers : {
+			thumbs : {
+				width: 75,
+				height: 50
+			}
+		}
+	});
+});
+
 $("#tstar01").click(function() {
 	$.fancybox.open([
 		{
