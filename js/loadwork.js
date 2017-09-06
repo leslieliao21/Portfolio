@@ -1,6 +1,23 @@
 
 $(document).ready(function() {
 
+$("#phimedia02").click(function() {
+	$.fancybox.open([
+		{
+			href : 'images/work/phimedia02/01.jpg',
+    
+			title : ':: UI :: 2017圓動力-運動員新媒體平台<br/><span class="secondt">UI/UX設計/RWD架構</span>'
+		}
+	], {
+		helpers : {
+			thumbs : {
+				width: 75,
+				height: 50
+			}
+		}
+	});
+});
+
 $("#phimedia01").click(function() {
 	$.fancybox.open([
 		{
