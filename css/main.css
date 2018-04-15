@@ -124,9 +124,9 @@ a:active {
 	margin-bottom: 12px;
 	float: left;
 	clear: none;
-	-webkit-border-radius: 7px;
-	-moz-border-radius: 7px;
-	border-radius: 7px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 	border: 0px;
 	line-height: 1.5em;
 }

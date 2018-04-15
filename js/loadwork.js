@@ -1,6 +1,52 @@
 
 $(document).ready(function() {
 
+$("#rapaq").click(function() {
+	$.fancybox.open([
+		{
+			href : 'images/work/rapaq/01.jpg',
+    
+			title : ':: RWD :: 2018 RapaQ首頁<br/><span class="secondt">RWD切版</span><br><a href="http://www.rapaq.com" target="_blank">LINK</a>'
+		}
+	], {
+		helpers : {
+			thumbs : {
+				width: 75,
+				height: 50
+			}
+		}
+	});
+});
+
+$("#cathay01").click(function() {
+	$.fancybox.open([
+		{
+			href : 'images/work/cathay01/01.jpg',
+    
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+		}, {
+			href : 'images/work/cathay01/02.jpg',
+    
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+		}, {
+			href : 'images/work/cathay01/03.jpg',
+    
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+		}, {
+			href : 'images/work/cathay01/04.jpg',
+    
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+		}
+	], {
+		helpers : {
+			thumbs : {
+				width: 75,
+				height: 50
+			}
+		}
+	});
+});
+
 $("#phimedia02").click(function() {
 	$.fancybox.open([
 		{
@@ -39,7 +85,7 @@ $("#phimedia01").click(function() {
 		{
 			href : 'images/work/phimedia01/01.jpg',
     
-			title : ':: UI :: 2017覺風佛教藝術文化基金會官網<br/><span class="secondt">UI/UX設計/RWD架構</span><br><a href="https://beta.chuefeng.org.tw" target="_blank">LINK</a>'
+			title : ':: UI :: 2017覺風佛教藝術文化基金會官網<br/><span class="secondt">UI/UX設計/RWD架構</span><br><a href="https://www.chuefeng.org.tw" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
@@ -265,7 +311,7 @@ $("#tutorabc12").click(function() {
 	$.fancybox.open([
 		{
 			href : 'images/work/tutorabc12/01.jpg',
-			title : ':: RWD ::TutorABC-尋找ABC先生Landing page<br/><span class="secondt">視覺設計/RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/MrABC/index.asp" target="_blank">LINK</a>'
+			title : ':: RWD ::TutorABC-尋找ABC先生Landing page<br/><span class="secondt">RWD架構/HTML/CSS/jQuery</span><br><a href="https://www.tutorabc.com/webinar/MrABC/index.asp" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
