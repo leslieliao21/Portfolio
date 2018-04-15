@@ -75,6 +75,6 @@ $container.imagesLoaded(function(){
 });
 
 $(window).load(function() {
-  $('#resume').load('/portfolio/resume.html');
+  $('#resume').load('./resume.html');
 
 });
