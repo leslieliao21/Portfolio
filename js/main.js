@@ -25,6 +25,10 @@
 
 
 $(function(){
+$(window).load(function() {
+    // Animate loader off screen
+    $(".preloader").fadeOut("slow");
+});
 
 // var msg='';
 // var like_id='';
