@@ -100,9 +100,17 @@
 }
 
 #fancybox-loading div {
-	width: 50px;
+	/*width: 50px;
 	height: 50px;
-	background: url('../images/loader.svg') center center no-repeat;
+	background: url('../images/loading_black.gif') center center no-repeat;*/
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(../images/loader.svg) center no-repeat #000;
+	opacity: .9;
 }
 
 .fancybox-close {
