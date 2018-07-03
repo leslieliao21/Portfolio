@@ -191,7 +191,7 @@ figure.snip figcaption{
 	color: #FFF;
 	width: 100%;
 	height: auto;
-	box-shadow: 0 0 5px rgba(0,0,0,0.15);
+	/*box-shadow: 0 0 5px rgba(0,0,0,0.15);*/
 	/*height: 100%;*/
 	-webkit-transform:translate(-50%, -50%) scale(0);
 	transform: translate(-50%, -50%) scale(0);
