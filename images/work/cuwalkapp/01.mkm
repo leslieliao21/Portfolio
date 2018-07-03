@@ -1,9 +1,0 @@
-<MKM version="2.0" imageFileUrl="file:///LeslieL./L/2014Leslie/html/images/work/cuwalkapp/01.jpg">
-  <Marks>
-    <LengthMark direction="3" color="16711680" length="29" x="71" y="302"/>
-    <LengthMark direction="12" color="16711680" length="11" x="155" y="498"/>
-    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="4144959" offsetX="25" offsetY="10" x="232" y="459"/>
-    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16579836" offsetX="25" offsetY="10" x="205" y="95"/>
-    <TextMark defaultDirection="9" direction="9" color="16711680" x="173" y="211" textMaxWidth="100" offsetX="25" offsetY="10" text="说明..."/>
-  </Marks>
-</MKM>
