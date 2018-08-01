@@ -6,7 +6,7 @@ $("#rapaq").click(function() {
 		{
 			href : 'images/work/rapaq/01.jpg',
     
-			title : ':: RWD :: 2018 RapaQ首頁<br/><span class="secondt">RWD切版</span><br><a href="http://www.rapaq.com" target="_blank">LINK</a>'
+			title : ':: RWD :: 2018 RapaQ首頁<br/><span class="secondt">RWD切版</span>'
 		}
 	], {
 		helpers : {
