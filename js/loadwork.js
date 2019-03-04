@@ -23,19 +23,19 @@ $("#cathay01").click(function() {
 		{
 			href : 'images/work/cathay01/01.jpg',
     
-			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="https://istockapp.cathaysec.com.tw/e-league/lazypack/index.html" target="_blank">LINK</a>'
 		}, {
 			href : 'images/work/cathay01/02.jpg',
     
-			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="https://istockapp.cathaysec.com.tw/e-league/lazypack/index.html" target="_blank">LINK</a>'
 		}, {
 			href : 'images/work/cathay01/03.jpg',
     
-			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="https://istockapp.cathaysec.com.tw/e-league/lazypack/index.html" target="_blank">LINK</a>'
 		}, {
 			href : 'images/work/cathay01/04.jpg',
     
-			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="http://www.hikaru.com.tw/cathaydemo/lazypack/0320/index.html" target="_blank">LINK</a>'
+			title : ':: RWD :: 2018國泰世華銀行投資懶人包<br/><span class="secondt">RWD切版</span><br><a href="https://istockapp.cathaysec.com.tw/e-league/lazypack/index.html" target="_blank">LINK</a>'
 		}
 	], {
 		helpers : {
